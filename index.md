@@ -1,39 +1,26 @@
 
-
-清晨的微雨<br>
-永远不会走进我的心<br>
-愤怒吧，愤怒吧<br>
-那温柔的夜将逝<br>
-智者应该缅怀<br>
-
-若将所有的善捉走<br>
-失明的微光<br>
-永远不会走进我的心<br>
-咆哮吧，用热泪去咆哮<br>
-孤独的银河<br>会祝福呼啸的流星<br>
-
-用永恒去哀叹<br>
-欢欣的永夜<br>
-去追寻逝去的光！
-
-
-<br>
-Code is the world ，Let's go ！<br />
-<br />
-
-<br>
+<b>欢迎来到void-x1的个人主页，这里我分享底层技术实现。<br>
+微信号码,欢迎交流<br>Let's build the world!<br><img style="height:200px" src="imgs/wx_id.jpg"/>   <br><br></b><br>
 
 
 
-<b>文章清单 </b>
+清单
+--
 
 
-
-
-- [MySQL的必知必会（简介）](https://zhuanlan.zhihu.com/p/689571494 "Mysql的必知必会（简介）")
-- [MySQL线上常见故障排查集锦](https://zhuanlan.zhihu.com/p/691957928 "MySQL线上常见故障排查集锦")
-- [MySQL说开去](https://zhuanlan.zhihu.com/p/675084748 "MySQL论道")
-
-
-
-
+[Java并发体系概论](https://void-x1.github.io/java并发概论.md)
+-
+[从"关系"说到MySQL底层原理](https://zhuanlan.zhihu.com/p/675084748 "MySQL论道")
+-
+[MySQL的必知必会（简介）](https://zhuanlan.zhihu.com/p/689571494 "Mysql的必知必会（简介）")
+- 
+[MySQL线上常见故障排查集锦](https://zhuanlan.zhihu.com/p/691957928 "MySQL线上常见故障排查集锦")
+- 
+[JVM优化专题](https://void-x1.github.io/jvm_op.md)
+- 
+[Redis是什么](https://void-x1.github.io/redis1.md)
+- 
+[TCP/IP协议一镜到底(最底层协议)](https://void-x1.github.io/tcpip.md)
+- 
+[Java公平锁是怎么实现公平的](https://void-x1.github.io/Java公平锁是怎么实现公平的.md)
+-
