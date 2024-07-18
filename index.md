@@ -8,6 +8,15 @@
 
  
 - [分布式事务概要](https://void-x1.github.io/分布式事务)
+	- 理论
+		- [分布式理论基础](https://void-x1.github.io/分布式理论基础)
+		- [分布式事务模型](https://void-x1.github.io/分布式事务模型)
+		- [一致性协议](https://void-x1.github.io/一致性协议)
+		 
+	- 实践
+		- MySQL XA
+		- 微服务分布式事务集成
+
 
 - [Java并发体系概论](https://void-x1.github.io/java并发概论)
 
